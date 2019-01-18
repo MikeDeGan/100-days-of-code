@@ -2,9 +2,9 @@
 
 ### Day 0: January 18, 2019
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Continuing my work on the Free Code Camp Calculator app.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** The only, or at least the absolute best, way to learn to code is to actually code. I've been spending probably 95% of my coding time reading, watching videos and following online courses. Time to code first and do online courses after. #100DaysOfCode sounds like a great plan.
 
 **Link to work:** [Calculator App](http://www.example.com)
 
