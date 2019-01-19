@@ -10,8 +10,16 @@
 
 ### Day 2: January 19, 2019
 
-**Today's Progress**: 
+**Today's Progress**:  Added functionality to the calculator app. Validating input and adding keypad input. Passed all of the Free Code Camp tests. It still needs a little style, it's a bit boring looking right now.
+
+**Thoughts**: Laid out the buttons using CSS Grid. How awesome is CSS Grid!
+
+**Link(s) to work**: [Calculator App](https://github.com/MikeDeGan/FCC-Calculator)
+
+### Day 3: January 20, 2019
+
+**Today's Progress**:  
 
 **Thoughts**: 
 
-**Link(s) to work**: 
+**Link(s) to work**:
