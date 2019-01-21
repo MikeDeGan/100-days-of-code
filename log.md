@@ -18,6 +18,12 @@
 
 ### Day 3: January 20, 2019
 
+**Today's Progress**:  Played around with a weatherAPI from OpenWeatherMap.org using XMLHttpRequest. It was fun.
+
+**Thoughts**: Need to work more with Axios, JQuery and Fetch to see why and when I would use one over the other.
+
+### Day 4: January 21, 2019
+
 **Today's Progress**:  
 
 **Thoughts**: 
