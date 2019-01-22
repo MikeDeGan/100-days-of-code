@@ -18,14 +18,22 @@
 
 ### Day 3: January 20, 2019
 
-**Today's Progress**:  Played around with a weatherAPI from OpenWeatherMap.org using XMLHttpRequest. It was fun.
+**Today's Progress**:  Played around with a weatherAPI from OpenWeatherMap.org using XMLHttpRequest. It was fun. Built a weather site based on a course from Pluralsight.
 
 **Thoughts**: Need to work more with Axios, JQuery and Fetch to see why and when I would use one over the other.
 
 ### Day 4: January 21, 2019
 
+**Today's Progress**:  Finished the FCC Calculator project. Added a backspace button and some formatting.
+
+**Thoughts**: I need to practice, practice, practice. I am beginning to start to think in terms of Javascript solutions and slowly developing a sense of when to use certain methods over others.
+
+**Link(s) to work**:  [Calculator site](https://mikedegan.github.io/FCC-Calculator/)  Or [Calculator GitHub Repo](https://github.com/MikeDeGan/FCC-Calculator/)
+
+### Day 5: January 22, 2019
+
 **Today's Progress**:  
 
 **Thoughts**: 
 
-**Link(s) to work**:
+**Link(s) to work**:  
