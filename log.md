@@ -32,8 +32,17 @@
 
 ### Day 5: January 22, 2019
 
+**Today's Progress**:  Life is already trying to get in the way of my 100 Days of Code. I was able to find an hour to get started on the Pomodoro project. Started working on the design and set up the React skeleton.
+
+**Thoughts**: Tomato
+
+**Link(s) to work**:  [Pomodoro repo](https://github.com/MikeDeGan/FCC-Pomodoro) Just a basic create-react-app right now
+
+### Day 6: January 23, 2019
+
 **Today's Progress**:  
 
 **Thoughts**: 
 
-**Link(s) to work**:  
+**Link(s) to work**: 
+
