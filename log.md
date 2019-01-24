@@ -40,9 +40,16 @@
 
 ### Day 6: January 23, 2019
 
+**Today's Progress**:  Worked on the design for the FCC pomodoro project. Thought I would create a pie chart and animate it to create a count down graphic. Pie charts in CSS are not an simple topic. I found conic-gradient that would make the job easy but also found that only the latest versions on Chrome support it.
+
+**Thoughts**: I will stick with my animated pie chart idea. Worst case I will do something else but learn a lot about CSS animations and SVG along the way.
+
+**Link(s) to work**:  [Pomodoro repo](https://github.com/MikeDeGan/FCC-Pomodoro)
+
+### Day 7: January 24, 2019
+
 **Today's Progress**:  
 
 **Thoughts**: 
 
 **Link(s) to work**: 
-
