@@ -48,7 +48,15 @@
 
 ### Day 7: January 24, 2019
 
-**Today's Progress**:  
+**Today's Progress**:  Finally have an animated pie chart thanks to Lea Verou and [this Video](https://www.youtube.com/watch?v=eVnUDTtOLE0). Now to get this thing looking good and integrated into a pomodoro clock.
+
+**Thoughts**: conic-gradient would have been much nicer.
+
+**Link(s) to work**: [Animated pie chart on CodePen](https://codepen.io/MikeRockinOut/pen/qgOMVY).
+
+### Day 8: January 25, 2019
+
+**Today's Progress**: 
 
 **Thoughts**: 
 
