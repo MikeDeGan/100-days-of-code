@@ -56,8 +56,14 @@
 
 ### Day 8: January 25, 2019
 
+**Today's Progress**: Worked through the Free Code Camp Redux challenges today.
+
+**Thoughts**: I feel like Redux is starting to make sense. Now I'll try to implement Redux in a project and quickly realize that I don't have a clue.
+
+### Day 9: January 26, 2019
+
 **Today's Progress**: 
 
 **Thoughts**: 
 
-**Link(s) to work**: 
+**Link(s) to work**:
