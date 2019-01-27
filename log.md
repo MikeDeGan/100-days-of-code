@@ -62,6 +62,12 @@
 
 ### Day 9: January 26, 2019
 
+**Today's Progress**: Working through Free Code Camp's React-Redux challenges. 
+
+**Thoughts**: This may take creating a few projects to really start to get a feel for all the pieces.
+
+### Day 10: January 27, 2019
+
 **Today's Progress**: 
 
 **Thoughts**: 
