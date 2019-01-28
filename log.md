@@ -68,8 +68,16 @@
 
 ### Day 10: January 27, 2019
 
-**Today's Progress**: 
+**Today's Progress**: Completed the Free Code Camp React-Redux challenges. 
+
+**Thoughts**: Yes, I completed the FCC React-Redux challenges but I definitely do not know React-Redux. I have learned enough to get started building a React-Redux test app. But I better start soon.
+
+**Link(s) to work**: [FreeCodeCamp/MikeDeGan](https://www.freecodecamp.org/mikedegan)
+
+### Day 11: January 28, 2019
+
+**Today's Progress**:  
 
 **Thoughts**: 
 
-**Link(s) to work**:
+**Link(s) to work**: 
