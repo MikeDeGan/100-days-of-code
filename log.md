@@ -76,6 +76,12 @@
 
 ### Day 11: January 28, 2019
 
+**Today's Progress**:  Started digging in to D3.js. Not ready for that right now.
+
+**Thoughts**: Need to make sure I have solid React knowledge before moving on to something as deep as D3
+
+### Day 12: January 29, 2019
+
 **Today's Progress**:  
 
 **Thoughts**: 
