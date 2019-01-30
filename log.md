@@ -82,8 +82,17 @@
 
 ### Day 12: January 29, 2019
 
+**Today's Progress**:  Found a little time to make some progress on the Pomodoro clock project.
+
+**Thoughts**: I am going to through everything in this project just to get a little experience. Experimenting with SVG for a count down timer and maybe SVG for increase / decrease buttons. Also going to try to add Redux even though that will be a little ridiculous in this tiny project. 
+
+**Link(s) to work**: [Pomodoro repo](https://github.com/MikeDeGan/FCC-Pomodoro)
+
+### Day 13: January 30, 2019
+
 **Today's Progress**:  
 
 **Thoughts**: 
 
 **Link(s) to work**: 
+
