@@ -90,9 +90,16 @@
 
 ### Day 13: January 30, 2019
 
+**Today's Progress**:  Added a couple SVG buttons to the pomodoro app. SVG is a bit of a challenge.
+
+**Thoughts**: The first time I added font icons to a project it took about 1 minute to figure it out. SVG icons considerably more. Partly a JSX syntax thing so I can't totally blame SVG.
+
+**Link(s) to work**: [Pomodoro repo](https://github.com/MikeDeGan/FCC-Pomodoro)
+
+### Day 14: January 31, 2019
+
 **Today's Progress**:  
 
 **Thoughts**: 
 
 **Link(s) to work**: 
-
