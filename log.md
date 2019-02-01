@@ -98,7 +98,15 @@
 
 ### Day 14: January 31, 2019
 
-**Today's Progress**:  
+**Today's Progress**:  Did a little reading on Axios and continued work on the pomodoro project.
+
+**Thoughts**: I think I would like to give a little animation to the increase decrease buttons just to play with animating SVG elements.
+
+**Link(s) to work**: [Pomodoro repo](https://github.com/MikeDeGan/FCC-Pomodoro)
+
+### Day 15: February 1, 2019
+
+**Today's Progress**: 
 
 **Thoughts**: 
 
