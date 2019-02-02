@@ -106,8 +106,16 @@
 
 ### Day 15: February 1, 2019
 
+**Today's Progress**: Worked on the animation for the pomodoro project. It's looking pretty good.
+
+**Thoughts**: Getting CSS to do what you want can really eat up some time.
+
+**Link(s) to work**: [Pomodoro repo](https://github.com/MikeDeGan/FCC-Pomodoro)
+
+### Day 16: February 2, 2019
+
 **Today's Progress**: 
 
 **Thoughts**: 
 
-**Link(s) to work**: 
+**Link(s) to work**:
