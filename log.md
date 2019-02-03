@@ -114,6 +114,14 @@
 
 ### Day 16: February 2, 2019
 
+**Today's Progress**: Added the timer function to the pomodoro app. Worked out a synchronization problem between the countdown timer and the animated graphic. Had to completely change the way the animation was timed. Removed CSS animation and went to setting the stroke-dasharray every second in JS.
+
+**Thoughts**: It seems that you cannot count on a CSS keyframe animation to take the exact time specified. The pie chart animation would vary by up to 7 seconds for a 20 minute animation.
+
+**Link(s) to work**: [Pomodoro repo](https://github.com/MikeDeGan/FCC-Pomodoro)
+
+### Day 17: February 3, 2019
+
 **Today's Progress**: 
 
 **Thoughts**: 
