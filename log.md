@@ -122,6 +122,14 @@
 
 ### Day 17: February 3, 2019
 
+**Today's Progress**: brought the pomodoro project up to fully functioning. Passiing all FCC tests.
+
+**Thoughts**: Had to swap out the SVG buttons for some Fontawesome icons because it looks like the FCC tests did not see the SVG elements as 'clickable elements'.
+
+**Link(s) to work**:  [Pomodoro repo](https://github.com/MikeDeGan/FCC-Pomodoro)
+
+### Day 18: February 4, 2019
+
 **Today's Progress**: 
 
 **Thoughts**: 
