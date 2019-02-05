@@ -130,6 +130,14 @@
 
 ### Day 18: February 4, 2019
 
+**Today's Progress**: Started comparing jQuery, Axios and Fetch.
+
+**Thoughts**: Maybe just always use Axios. Need to experiment some more and become more comfortable with each.
+
+**Link(s) to work**:
+
+### Day 19: February 5, 2019
+
 **Today's Progress**: 
 
 **Thoughts**: 
