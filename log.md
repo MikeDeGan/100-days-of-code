@@ -138,7 +138,15 @@
 
 ### Day 19: February 5, 2019
 
-**Today's Progress**: 
+**Today's Progress**: Putting the final touches on the pomodoro project. Created some React components where it seemed to make sense. Struggling with the 'easy' stuff; can't seem to format my settings labels and buttons as I would like and I spent way too long trying to get an alarm animation looking the just right.
+
+**Thoughts**: CSS keyframes animations are great if you just want them to do what they are supposed to do. Trying to start and stop and animation so it only animates when you want is not too bad using animationPlayState unless you want the animation to stop at the end each time. Tried to add an event listener 'animationstart' and 'annimationend', no luck. Gave up on CSS animation and animated the graphic using JavaScript. Right? Wrong? Did I just miss the real answer? Maybe someday I'll find out.
+
+**Link(s) to work**: [Pomodoro repo](https://github.com/MikeDeGan/FCC-Pomodoro)
+
+### Day 20: February 6, 2019
+
+**Today's Progress**:
 
 **Thoughts**: 
 
