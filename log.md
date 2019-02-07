@@ -146,7 +146,17 @@
 
 ### Day 20: February 6, 2019
 
-**Today's Progress**:
+**Today's Progress**: spent some more time studying API calls. Began to transition the animation from CSS keyframes over to using JS. Needed to pause and restart the animation and I could not get CSS to pause at the same spot each time or pause and reset to start. JS works and is very controllable and repeatable.
+
+**Thoughts**: CSS animations are quick and easy and smooth but probably shouldn't be messed with beyond what they were intended to do. Looks like I'm going to keep finding things to mess with on this pomodoro project. The 'professional' in me wants to fly through the FreeCodeCamp curriculum as fast as possible to get them done. I have to keep telling myself that the goal is to learn as much as possible and I should take more time at each step to get as much as I can out of the exercises.
+
+**Link(s) to work**: [Pomodoro repo](https://github.com/MikeDeGan/FCC-Pomodoro)
+
+
+
+### Day 21: February 7, 2019
+
+**Today's Progress**: 
 
 **Thoughts**: 
 
