@@ -152,12 +152,19 @@
 
 **Link(s) to work**: [Pomodoro repo](https://github.com/MikeDeGan/FCC-Pomodoro)
 
-
-
 ### Day 21: February 7, 2019
+
+**Today's Progress**: More code cleanup on the pomodoro project. Added a fade out/in on the title on change from session to break and back. Of course that broke the Free Code Camp tests so I have to add it as an option after startup.
+
+**Thoughts**: Every day that I sit down to finish this project I decide to add features or tweak something to make it 'better.' I may never actually finish this project.
+
+**Link(s) to work**: [Pomodoro repo](https://github.com/MikeDeGan/FCC-Pomodoro)
+
+### Day 22: February 8, 2019
 
 **Today's Progress**: 
 
 **Thoughts**: 
 
 **Link(s) to work**:
+
