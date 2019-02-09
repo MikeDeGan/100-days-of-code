@@ -162,9 +162,14 @@
 
 ### Day 22: February 8, 2019
 
+**Today's Progress**: Very little work on pomodoro. Did some study of basic Node.js and Express. Messing around with Postman.
+
+**Thoughts**: Postman is unexpectedly awesome. I thought it was just a utility to send API requests. It is much much more. Excited to experiment further.
+
+### Day 23: February 9, 2019
+
 **Today's Progress**: 
 
 **Thoughts**: 
 
 **Link(s) to work**:
-
