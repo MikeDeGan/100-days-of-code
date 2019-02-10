@@ -168,6 +168,12 @@
 
 ### Day 23: February 9, 2019
 
+**Today's Progress**: API weekend. Reading and experimenting with Postman.
+
+**Thoughts**: Spending some time this weekend refactoring some apps to use Fetch, Axios and jQuery for API calls. Just want to get comfortable with all API calls.
+
+### Day 24: February 10, 2019
+
 **Today's Progress**: 
 
 **Thoughts**: 
