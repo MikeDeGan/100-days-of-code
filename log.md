@@ -174,6 +174,12 @@
 
 ### Day 24: February 10, 2019
 
+**Today's Progress**: After API weekend I am a lot more comfortable making API calls using fetch and jQuery. Also had a great time learning Postman and using the mock API server function. Good stuff.
+
+**Thoughts**:  This API weekend worked so well I might try a theme for next weekend, maybe 'Redux Weekend.'
+
+### Day 25: February 11, 2019
+
 **Today's Progress**: 
 
 **Thoughts**: 
