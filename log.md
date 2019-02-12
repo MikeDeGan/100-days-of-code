@@ -180,6 +180,12 @@
 
 ### Day 25: February 11, 2019
 
+**Today's Progress**:  Did some research of Azure Web Apps and running Node.js on Azure. Continued my experimentation of various client API libraries.
+
+**Thoughts**: Too much can go wrong with an API call.
+
+### Day 26: February 12, 2019
+
 **Today's Progress**: 
 
 **Thoughts**: 
