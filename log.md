@@ -186,6 +186,12 @@
 
 ### Day 26: February 12, 2019
 
+**Today's Progress**: More fun with API calls. Digging in more deeply with jQuery and Axios.
+
+**Thoughts**: Axios is definitely my favorite and will be my go to for upcoming projects.
+
+### Day 27: February 13, 2019
+
 **Today's Progress**: 
 
 **Thoughts**: 
