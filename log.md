@@ -192,6 +192,12 @@
 
 ### Day 27: February 13, 2019
 
+**Today's Progress**: Still messing with API calls. Accessed some Fortnite data for the boy and some YNAB data for me.
+
+**Thoughts**: I just want to master dealing with API calls since they are so important.
+
+### Day 28: February 14, 2019
+
 **Today's Progress**: 
 
 **Thoughts**: 
