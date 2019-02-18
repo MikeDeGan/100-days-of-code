@@ -198,8 +198,26 @@
 
 ### Day 28: February 14, 2019
 
-**Today's Progress**: 
+**Today's Progress**: Did a little coding.
 
-**Thoughts**: 
+### Day 29: February 15, 2019
 
-**Link(s) to work**:
+**Today's Progress**: Finished the JSON APIs and Ajax module in Free Code Camp.
+
+**Thoughts**: Axios wins
+
+**Link(s) to work**: [FreeCodeCamp/MikeDeGan](https://www.freecodecamp.org/mikedegan)
+
+### Day 30: February 16, 2019
+
+**Today's Progress**: More development of the YNAB API project.
+
+**Thoughts**: This will be a perfect data set to apply D3 to once I start the D3 lessons.
+
+### Day 31: February 17, 2019
+
+**Today's Progress**: Finished up the Pomodoro clock project. Achieved the Free Code Camp Front End Libraries Certification.
+
+**Thoughts**: I seem to struggle with anything CSS including Bootstrap. It looks so easy and seems very easy to understand and then my fields are all over the screen.
+
+**Link(s) to work**: [Pomodoro Clock](https://mikedegan.github.io/FCC-Pomodoro/)
