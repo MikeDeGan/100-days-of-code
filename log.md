@@ -221,3 +221,17 @@
 **Thoughts**: I seem to struggle with anything CSS including Bootstrap. It looks so easy and seems very easy to understand and then my fields are all over the screen.
 
 **Link(s) to work**: [Pomodoro Clock](https://mikedegan.github.io/FCC-Pomodoro/)
+
+### Day 32: February 18, 2019
+
+**Today's Progress**: Started digging in to Node.js and Express today.
+
+**Thoughts**: This is going to be fun.
+
+### Day 33: February 19, 2019
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: 
