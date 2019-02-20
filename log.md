@@ -230,6 +230,12 @@
 
 ### Day 33: February 19, 2019
 
+**Today's Progress**: Intro to Express js. So far so good.
+
+**Thoughts**: Off to a good start. Express makes the code nice and clean. At least I feel like I understand what's going on, we'll see.
+
+### Day 34: February 20, 2019
+
 **Today's Progress**: 
 
 **Thoughts**: 
