@@ -236,6 +236,12 @@
 
 ### Day 34: February 20, 2019
 
+**Today's Progress**: An intro to some templating engines, Pug, Handlebars and EJS.
+
+**Thoughts**: This looks like another one of those things that seems kind of straight forward at first but I'm afraid it could get weird fast and possibly seriously complicate debugging.
+
+### Day 35: February 21, 2019
+
 **Today's Progress**: 
 
 **Thoughts**: 
