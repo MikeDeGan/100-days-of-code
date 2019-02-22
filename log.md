@@ -242,6 +242,14 @@
 
 ### Day 35: February 21, 2019
 
+**Today's Progress**: More Node.js today. routing with Express, rendering ejs pages. And setting up the project as MVC.
+
+**Thoughts**: Things move so slow when you have to learn every part of the project.
+
+**Link(s) to work**: [Udemy Node Project. Github repo.](https://github.com/MikeDeGan/Udemy-NodeMax)
+
+### Day 36: February 22, 2019
+
 **Today's Progress**: 
 
 **Thoughts**: 
