@@ -250,6 +250,30 @@
 
 ### Day 36: February 22, 2019
 
+**Today's Progress**: More Node / Express. 
+
+**Thoughts**: Excellent Node course on Udemy [Nodejs - The Complete Guide](https://www.udemy.com/nodejs-the-complete-guide)
+
+### Day 37: February 23, 2019
+
+**Today's Progress**: Node / Express. Review routing and MVC.
+
+**Thoughts**: 
+
+### Day 38: February 24, 2019
+
+**Today's Progress**: Node / Express. Started a new project with a React front end and Node server. A service request app. with form submittals and status tracking.
+
+**Thoughts**: Very excited to use React and Node in an actual project.
+
+### Day 39: February 25, 2019
+
+**Today's Progress**: Worked on menu design on the front end of the service request app.
+
+**Thoughts**: Loving Materialize.
+
+### Day 40: February 26, 2019
+
 **Today's Progress**: 
 
 **Thoughts**: 
