@@ -274,6 +274,14 @@
 
 ### Day 40: February 26, 2019
 
+**Today's Progress**: Not much time today. Spent a little more time on the Nodejs course.
+
+**Thoughts**: Will need to review all of the code so far to make sure I know what's going on. I want to make sure I have a solid understanding of MVC and routing with Express.
+
+**Link(s) to work**: [Node Course Repo](https://github.com/MikeDeGan/Udemy-NodeMax)
+
+### Day 41: February 27, 2019
+
 **Today's Progress**: 
 
 **Thoughts**: 
