@@ -282,8 +282,38 @@
 
 ### Day 41: February 27, 2019
 
+**Today's Progress**: Review of routing with Express.
+
+**Thoughts**: Very little coding time today.
+
+### Day 42: February 28, 2019
+
+**Today's Progress**: Learning about dynamic routes with Express and ejs templates. also started learning about implementing MySql in Node.
+
+**Thoughts**: Routing and MySql should keep me busy for the next few days.
+
+### Day 43: March 1, 2019
+
+**Today's Progress**: Some more time on the design of the service request app.
+
+**Thoughts**: Just wish I had more time to dedicate to coding.
+
+### Day 44: March 2, 2019
+
+**Today's Progress**: Spent a bit of time on the service request app, developing the menu system.
+
+**Thoughts**: 
+
+### Day 45: March 3, 2019
+
+**Today's Progress**: Back to Node.js. Review of section 8 of "Nodejs The Complete Guide". Adding more routes and page templates to the project.
+
+**Thoughts**: This Maximilian Schwarzmuller does make a good course.
+
+### Day 46: March 4, 2019
+
 **Today's Progress**: 
 
 **Thoughts**: 
 
-**Link(s) to work**: 
+**Link(s) to work**:
