@@ -312,8 +312,18 @@
 
 ### Day 46: March 4, 2019
 
-**Today's Progress**: 
+**Today's Progress**: Passing parameters with Express routes.
+
+**Thoughts**: To pass them in using ejs. ```<a href="/products/<%= product.id %>" class="btn">Details</a>``` then to  capture them in the controller ```const prodId = req.params.productId;```
+
+### Day 47: March 5, 2019
+
+**Today's Progress**: Spent a bit of time on the service request app, developing the menu system.
 
 **Thoughts**: 
 
-**Link(s) to work**:
+### Day 48: March 6, 2019
+
+**Today's Progress**: Spent a bit of time on the service request app, developing the menu system.
+
+**Thoughts**: 
