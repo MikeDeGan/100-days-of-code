@@ -318,12 +318,12 @@
 
 ### Day 47: March 5, 2019
 
-**Today's Progress**: Spent a bit of time on the service request app, developing the menu system.
+**Today's Progress**: 
 
 **Thoughts**: 
 
 ### Day 48: March 6, 2019
 
-**Today's Progress**: Spent a bit of time on the service request app, developing the menu system.
+**Today's Progress**: 
 
 **Thoughts**: 
