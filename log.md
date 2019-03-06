@@ -318,11 +318,15 @@
 
 ### Day 47: March 5, 2019
 
+**Today's Progress**: Not much time today. Adding some more routes and pages to the Node project.
+
+### Day 48: March 6, 2019
+
 **Today's Progress**: 
 
 **Thoughts**: 
 
-### Day 48: March 6, 2019
+### Day 49: March 7, 2019
 
 **Today's Progress**: 
 
