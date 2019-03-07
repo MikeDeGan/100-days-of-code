@@ -322,9 +322,9 @@
 
 ### Day 48: March 6, 2019
 
-**Today's Progress**: 
+**Today's Progress**: Added a RegEx page to my documentation site.
 
-**Thoughts**: 
+**Thoughts**: Will need to do a second RegEx page with specific JavaScript examples.
 
 ### Day 49: March 7, 2019
 
