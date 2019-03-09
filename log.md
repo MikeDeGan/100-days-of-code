@@ -328,6 +328,24 @@
 
 ### Day 49: March 7, 2019
 
+**Today's Progress**: Still working through the Node-complete course on Udemy.
+
+**Thoughts**: 
+
+### Day 50: March 8, 2019
+
+**Today's Progress**: Some more dynamic routes. using params, queries and accessing body data.
+
+**Thoughts**: 1/2 way through 100 days of code. That flew by.
+
+### Day 51: March 9, 2019
+
+**Today's Progress**:  Learning Sequelize.
+
+**Thoughts**: At first I thought 'just use SQL' but I can see how Sequelize can clean up the code and add some nice functionality and security.
+
+### Day 52: March 10, 2019
+
 **Today's Progress**: 
 
 **Thoughts**: 
