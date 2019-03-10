@@ -346,6 +346,12 @@
 
 ### Day 52: March 10, 2019
 
+**Today's Progress**: started Mongodb work. Opened an Atlas account and established a connection with Nodejs.
+
+**Thoughts**: I can see why developers like Mongo.
+
+### Day 53: March 11, 2019
+
 **Today's Progress**: 
 
 **Thoughts**: 
