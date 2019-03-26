@@ -350,8 +350,18 @@
 
 **Thoughts**: I can see why developers like Mongo.
 
-### Day 53: March 11, 2019
+### Day 53 - 67: March 11 - 25, 2019
+
+**Today's Progress**: I've been coding everyday just not tweeting or logging progress here. Mostly been working on the Node course on Udemy. Learning and working with Mongo DB.
+
+**Thoughts**: Mongodb will be perfect for the service request app. Each form will need to store different fields. A few key fields will be in all tables like User, Date Submitted, Form Name. With Mongodb I should only need one document to store everything. 
+
+### Day 68: March 26, 2019
+
+**Today's Progress**: Created a SQL db in Azure and connected to it with on-prem Nodejs server. Very excited to use this to report O365 license costs to each department.
+
+**Thoughts**: Azure db's are awesome, easy, powerful and not cheap.
+
+### Day 69: March 27, 2019
 
 **Today's Progress**: 
-
-**Thoughts**: 
