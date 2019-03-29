@@ -362,6 +362,14 @@
 
 **Thoughts**: Azure db's are awesome, easy, powerful and not cheap.
 
-### Day 69: March 27, 2019
+### Day 69-70: March 27-28, 2019
+
+**Today's Progress**: Beginning a project to send Office 365 user license assignments to an Azure SQL db on a monthly basis to be used to back bill departments. A Node server running on an Azure app service will read from that db. A react front end will report the data to the department users and allow them to view summary data and drill through for more detail. 
+
+**Thoughts**: This project may be a little involved but I will give it a try. So far I have successfully pushed data from a PowerShell script to the Azure db, Read the DB from a Node app running on Azure. The communication flow and cloud configuration stuff seems to be in good shape all I have to do now is actually write the app.
+
+### Day 71: March 29, 2019
 
 **Today's Progress**: 
+
+**Thoughts**: 
