@@ -368,8 +368,15 @@
 
 **Thoughts**: This project may be a little involved but I will give it a try. So far I have successfully pushed data from a PowerShell script to the Azure db, Read the DB from a Node app running on Azure. The communication flow and cloud configuration stuff seems to be in good shape all I have to do now is actually write the app.
 
-### Day 71: March 29, 2019
+### Day 71-92: March 29 - April 19, 2019
+
+**Today's Progress**: Office 365 billing app is very functional. 80% functionality has been added and tested.
+
+**Thoughts**: This turned out to be a pretty good project to get my React and Node skills in shape. If I could have used a noSQL db the front end stuff would have been much easier.
+
+### Day 93: April 20, 2019
 
 **Today's Progress**: 
 
 **Thoughts**: 
+
