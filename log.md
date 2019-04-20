@@ -376,7 +376,13 @@
 
 ### Day 93: April 20, 2019
 
-**Today's Progress**: 
+**Today's Progress**: Completed the user details page.
+
+**Thoughts**: MaterializeCSS is great to work with and has an awesome autocomplete box. I filled it with 2700 email addresses and it works fast and easy. Nice.
+
+### Day 94: April 21, 2019
+
+**Today's Progress**:
 
 **Thoughts**: 
 
