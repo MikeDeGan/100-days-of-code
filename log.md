@@ -382,6 +382,12 @@
 
 ### Day 94: April 21, 2019
 
+**Today's Progress**: Completed the Usage Report page and api. Call it version 0.2
+
+**Thoughts**: By far the best way to learn to code is to build a project.
+
+### Day 95: April 22, 2019
+
 **Today's Progress**:
 
 **Thoughts**: 
