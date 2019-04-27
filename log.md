@@ -386,9 +386,14 @@
 
 **Thoughts**: By far the best way to learn to code is to build a project.
 
-### Day 95: April 22, 2019
+### Day 95-100: April 22-27, 2019
+
+**Today's Progress**: Starting to add the 'extras' to the Office 365 licensing app. The app is already very useful. 
+
+**Thoughts**: 100 days of code flew by. It was a lot of fun. Let's try 100 more.
+
+### Day 101: April 28, 2019
 
 **Today's Progress**:
 
 **Thoughts**: 
-
